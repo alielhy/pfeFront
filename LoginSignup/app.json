@@ -1,0 +1,7 @@
+{
+  "name": "LoginSignup",
+  "displayName": "LoginSignup",
+  "plugins": [
+    "expo-font"
+  ]
+}
